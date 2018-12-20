@@ -7,6 +7,10 @@ Repositorio para el proyecto de escáner 3D basado en linea láser para el curso
 2. Huamachuco Huacani, Romel
 3. Hancco Tancayllo, Hetmith
 
+## Armado del Escaner
+
+![alt text](escaner.jpg "Escaner")
+
 ## Resultados
 
 ### Objeto
